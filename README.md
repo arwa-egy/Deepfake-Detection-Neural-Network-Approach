@@ -1,5 +1,4 @@
 # Deepfake-Detection-Neural-Network-Approach
-## Data Analysis & Machine Learning Project Report
 
 ---
 
